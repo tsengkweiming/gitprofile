@@ -51,11 +51,11 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Tseng KweiMing', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    x: '',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -65,49 +65,45 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: '',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
+    'HLSL',
+    'C#',
+    'GLSL',
     'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
+    'PHP',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Rhino',
+    'Grasshopper',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'teamLab',
+      position: 'graphics engineer',
+      from: 'Jan 2020',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.teamlab.art',
     },
     {
-      company: 'Company Name',
+      company: 'NAXS Corp',
       position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      from: 'July 2017',
+      to: 'August 2019',
+      companyLink: 'https://www.naxs.tech',
     },
   ],
   certifications: [
@@ -120,16 +116,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Chiao Tung Unityversity',
+      degree: 'Master of Science in Architecture',
+      from: '2016',
+      to: '2018',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Chiao Tung Unityversity',
+      degree: 'Bachelor of Transporation Technology',
       from: '2012',
-      to: '2014',
+      to: '2016',
     },
   ],
   publications: [
@@ -155,7 +151,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
