@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Flowers and People, Cannot be Controlled but Live Together',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Oct 2025',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/d53fa366-71ef-4b3c-d72a-ec3025c24600/width=3840,quality=80',
           link: 'https://www.teamlab.art/ew/flowersandpeople-kyoto/kyoto/',
@@ -43,10 +43,18 @@ const CONFIG = {
         {
           title: 'Megalith-Kyoto',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Oct 2025',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fdc17700-ec0c-4895-0568-f46135268900/width=3840,quality=80',
           link: 'https://www.teamlab.art/ew/megalith-kyoto/kyoto',
+        },
+        {
+          title: 'Soft Terrain in Granular Topography',
+          description:
+            'Apr 2024',
+          imageUrl:
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/FQqwRLb8U8EuWnBs6P6RWM/width=1920,quality=80',
+          link: 'https://www.teamlab.art/ew/softterrain-jeddah/jeddah/',
         },
       ],
     },
