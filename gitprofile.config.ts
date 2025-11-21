@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Flowers and People, Cannot be Controlled but Live Together',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/d53fa366-71ef-4b3c-d72a-ec3025c24600/width=3840,quality=80',
+          link: 'https://www.teamlab.art/ew/flowersandpeople-kyoto/kyoto/',
         },
         {
-          title: 'Project Name',
+          title: 'Megalith-Kyoto',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fdc17700-ec0c-4895-0568-f46135268900/width=3840,quality=80',
+          link: 'https://www.teamlab.art/ew/megalith-kyoto/kyoto',
         },
       ],
     },
