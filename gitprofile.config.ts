@@ -19,13 +19,13 @@ const CONFIG = {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Flowers and People, Cannot be Controlled but Live Together',
           description:
-            'Oct 2025',
+            'Oct 2025, Kyoto, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/d53fa366-71ef-4b3c-d72a-ec3025c24600/width=3840,quality=80',
           link: 'https://www.teamlab.art/ew/flowersandpeople-kyoto/kyoto/',
@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Megalith-Kyoto',
           description:
-            'Oct 2025',
+            'Oct 2025, Kyoto, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fdc17700-ec0c-4895-0568-f46135268900/width=3840,quality=80',
           link: 'https://www.teamlab.art/ew/megalith-kyoto/kyoto',
@@ -51,10 +51,34 @@ const CONFIG = {
         {
           title: 'Soft Terrain in Granular Topography',
           description:
-            'Apr 2024',
+            'May 2024, Jeddah, Saudi Arabia',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/FQqwRLb8U8EuWnBs6P6RWM/width=1920,quality=80',
           link: 'https://www.teamlab.art/ew/softterrain-jeddah/jeddah/',
+        },
+        {
+          title: 'Life is an Ephemeral Light that Blooms in the Dark',
+          description:
+            'May 2024, Jeddah, Saudi Arabia',
+          imageUrl:
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fCk4ndN2jMwkTWYuMcVET4/width=3840,quality=80',
+          link: 'https://www.teamlab.art/w/life-ephemerallight-jeddah/jeddah/',
+        },
+        {
+          title: 'Life is an Ephemeral Light that Blooms in the Dark',
+          description:
+            'Feb 2024, Tokyo, Japan',
+          imageUrl:
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/KFKrRpZk6UdmMhB5pPsZTV/width=3840,quality=80',
+          link: 'https://www.teamlab.art/w/life-ephemerallight-jeddah/jeddah/',
+        },
+        {
+          title: 'Flower Bombing home',
+          description:
+            'Aug 2020',
+          imageUrl:
+            'https://flowers-bombing-home.teamlab.art/static/media/your-flower-art-PC.e2ffdf79.jpg',
+          link: 'https://flowers-bombing-home.teamlab.art/',
         },
       ],
     },
@@ -136,26 +160,7 @@ const CONFIG = {
       to: '2016',
     },
   ],
-  publications: [
-    {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-  ],
+  publications: [],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
