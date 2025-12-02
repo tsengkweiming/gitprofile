@@ -11,27 +11,18 @@ const CONFIG = {
    */
   base: '/gitprofile/',
   projects: {
-    github: {
-      display: true, // Display GitHub projects?
-      header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
-      automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
-        exclude: {
-          forks: true, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
-        },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
-    },
     external: {
-      header: 'My Projects',
+      header: '案件My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        {
+          title: '珍珠のVJ制作',
+          description:
+            'Jun 2025, Tokyo, Japan',
+          imageUrl:
+            'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/Photos/img3.png',
+          link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
+        },
         {
           title: 'Flowers and People, Cannot be Controlled but Live Together',
           description:
@@ -81,6 +72,23 @@ const CONFIG = {
           link: 'https://flowers-bombing-home.teamlab.art/',
         },
       ],
+    },
+    github: {
+      display: true, // Display GitHub projects?
+      header: 'Github Projects',
+      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      automatic: {
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        limit: 8, // How many projects to display.
+        exclude: {
+          forks: true, // Forked projects will not be displayed if set to true.
+          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        },
+      },
+      manual: {
+        // Properties for manually specifying projects
+        projects: [], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+      },
     },
   },
   seo: { title: 'Portfolio of Tseng KweiMing', description: '', imageURL: '' },
