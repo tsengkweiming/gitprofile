@@ -122,13 +122,13 @@ const CONFIG = {
     'HLSL',
     'C#',
     'GLSL',
+    'Rhino',
+    'Grasshopper',
     'Node.js',
     'MySQL',
     'PHP',
     'Git',
     'CSS',
-    'Rhino',
-    'Grasshopper',
   ],
   experiences: [
     {
@@ -140,7 +140,7 @@ const CONFIG = {
     },
     {
       company: 'NAXS Corp',
-      position: 'Position',
+      position: 'VR developer',
       from: 'July 2017',
       to: 'August 2019',
       companyLink: 'https://www.naxs.tech',
@@ -156,13 +156,13 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Chiao Tung Unityversity',
+      institution: 'National Chiao Tung University',
       degree: 'Master of Science in Architecture',
       from: '2016',
       to: '2018',
     },
     {
-      institution: 'Chiao Tung Unityversity',
+      institution: 'National Chiao Tung University',
       degree: 'Bachelor of Transporation Technology',
       from: '2012',
       to: '2016',
@@ -240,7 +240,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a>`,
 
   enablePWA: true,
 };
