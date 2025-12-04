@@ -20,7 +20,7 @@ const CONFIG = {
           description:
             'Jun 2025, Tokyo, Japan',
           imageUrl:
-            'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/Photos/img3.png',
+            'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/photos/img3.png',
           link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
         },
         {
