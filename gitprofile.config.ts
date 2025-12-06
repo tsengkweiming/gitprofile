@@ -18,7 +18,7 @@ const CONFIG = {
         {
           title: '珍珠のVJ制作',
           description:
-            '個人製作\ Jun 2025, Tokyo, Japan',
+            '個人製作\nJun 2025, Tokyo, Japan',
           imageUrl:
             'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/photos/img3.png',
           link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
@@ -66,7 +66,7 @@ const CONFIG = {
         {
           title: 'Rinkan sauna',
           description:
-            'Mar 2021, Roppongi, Tokyo, Japan',
+            'サウナ空間で制作したリアルタイム映像作品。漂うミストにを投影し、没入的な雰囲気を生み出す。\nMar 2021, Roppongi, Tokyo, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/ri8LBVvcb8rAFWy2Drf96/width=3840,quality=80',
           link: 'https://www.teamlab.art/w/stepinto_lightcircles/',
