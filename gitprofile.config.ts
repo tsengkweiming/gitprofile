@@ -18,7 +18,7 @@ const CONFIG = {
         {
           title: '珍珠のVJ制作',
           description:
-            'Jun 2025, Tokyo, Japan',
+            '個人製作\ Jun 2025, Tokyo, Japan',
           imageUrl:
             'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/photos/img3.png',
           link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
@@ -32,12 +32,12 @@ const CONFIG = {
           link: 'https://www.teamlab.art/ew/flowersandpeople-kyoto/kyoto/',
         },
         {
-          title: 'Megalith-Kyoto',
+          title: 'Megaliths in the Roots Garden',
           description:
-            'Oct 2025, Kyoto, Japan',
+            'Dec 2024, Abu Dhabi, UAE',
           imageUrl:
-            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fdc17700-ec0c-4895-0568-f46135268900/width=3840,quality=80',
-          link: 'https://www.teamlab.art/ew/megalith-kyoto/kyoto',
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/cefLMoExSvd8Mocz5H3imF/width=3840,quality=80',
+          link: 'https://www.teamlab.art/ew/megaliths-phenomena/phenomena/',
         },
         {
           title: 'Soft Terrain in Granular Topography',
