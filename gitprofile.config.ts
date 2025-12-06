@@ -18,7 +18,7 @@ const CONFIG = {
         {
           title: '珍珠のVJ制作',
           description:
-            '個人製作\nJun 2025, Tokyo, Japan',
+            '個人製作<br>Jun 2025, Tokyo, Japan',
           imageUrl:
             'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/photos/img3.png',
           link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
@@ -66,7 +66,7 @@ const CONFIG = {
         {
           title: 'Rinkan sauna',
           description:
-            'サウナ空間で制作したリアルタイム映像作品。漂うミストにを投影し、没入的な雰囲気を生み出す。\nMar 2021, Roppongi, Tokyo, Japan',
+            'サウナ空間で制作したリアルタイム映像作品。漂うミストにを投影し、没入的な雰囲気を生み出す。<br>Mar 2021, Roppongi, Tokyo, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/ri8LBVvcb8rAFWy2Drf96/width=3840,quality=80',
           link: 'https://www.teamlab.art/w/stepinto_lightcircles/',
@@ -74,7 +74,8 @@ const CONFIG = {
         {
           title: 'Flower Bombing home',
           description:
-            'Aug 2020',
+            'コロナ禍に、美術館での体験がYouTube配信を通じて家庭へと変わっていく過程を探った作品。
+            Aug 2020',
           imageUrl:
             'https://flowers-bombing-home.teamlab.art/static/media/your-flower-art-PC.e2ffdf79.jpg',
           link: 'https://flowers-bombing-home.teamlab.art/',
