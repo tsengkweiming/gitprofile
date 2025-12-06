@@ -74,8 +74,7 @@ const CONFIG = {
         {
           title: 'Flower Bombing home',
           description:
-            'コロナ禍に、美術館での体験がYouTube配信を通じて家庭へと変わっていく過程を探った作品。
-            Aug 2020',
+            '<p><em>コロナ禍に、美術館での体験がYouTube配信を通じて家庭へと変わっていく過程を探った作品。</em></p>&nbsp;&nbsp;Aug 2020',
           imageUrl:
             'https://flowers-bombing-home.teamlab.art/static/media/your-flower-art-PC.e2ffdf79.jpg',
           link: 'https://flowers-bombing-home.teamlab.art/',
