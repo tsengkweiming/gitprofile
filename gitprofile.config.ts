@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/gitprofile/',
   projects: {
     external: {
-      header: '案件My Projects',
+      header: '案件 Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -62,6 +62,14 @@ const CONFIG = {
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/KFKrRpZk6UdmMhB5pPsZTV/width=3840,quality=80',
           link: 'https://www.teamlab.art/w/life-ephemerallight-jeddah/jeddah/',
+        },
+        {
+          title: 'Rinkan sauna',
+          description:
+            'Mar 2021, Roppongi, Tokyo, Japan',
+          imageUrl:
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/ri8LBVvcb8rAFWy2Drf96/width=3840,quality=80',
+          link: 'https://www.teamlab.art/w/stepinto_lightcircles/',
         },
         {
           title: 'Flower Bombing home',
