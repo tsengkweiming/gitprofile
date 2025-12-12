@@ -16,9 +16,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'HoiPoiのVJ制作',
+          description:
+            'May 2025, Tokyo, Japan',
+          imageUrl:
+            'https://tsengkweiming.github.io/portfolio-pages/project-hoipoi-vj/photos/IMG3.jpg',
+          link: 'https://tsengkweiming.github.io/portfolio-pages/project-hoipoi-vj/',
+        },
+        {
           title: '珍珠のVJ制作',
           description:
-            'Jun 2025, Tokyo, Japan',
+            'Apr 2025, Tokyo, Japan',
           imageUrl:
             'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/photos/img3.png',
           link: 'https://tsengkweiming.github.io/portfolio-pages/project-pearl-vj/',
