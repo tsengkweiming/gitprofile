@@ -37,7 +37,7 @@ const CONFIG = {
             'Oct 2025, Kyoto, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/d53fa366-71ef-4b3c-d72a-ec3025c24600/width=3840,quality=80',
-          link: 'https://www.teamlab.art/ew/flowersandpeople-kyoto/kyoto/',
+          link: 'https://www.teamlab.art/jp/ew/flowersandpeople-kyoto/kyoto/',
         },
         {
           title: 'Megaliths in the Roots Garden',
@@ -45,7 +45,7 @@ const CONFIG = {
             'Dec 2024, Abu Dhabi, UAE',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/cefLMoExSvd8Mocz5H3imF/width=3840,quality=80',
-          link: 'https://www.teamlab.art/ew/megaliths-phenomena/phenomena/',
+          link: 'https://www.teamlab.art/jp/ew/megaliths-phenomena/phenomena/',
         },
         {
           title: 'Soft Terrain in Granular Topography',
@@ -53,7 +53,7 @@ const CONFIG = {
             'May 2024, Jeddah, Saudi Arabia',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/FQqwRLb8U8EuWnBs6P6RWM/width=1920,quality=80',
-          link: 'https://www.teamlab.art/ew/softterrain-jeddah/jeddah/',
+          link: 'https://www.teamlab.art/jp/ew/softterrain-jeddah/jeddah/',
         },
         {
           title: 'Life is an Ephemeral Light that Blooms in the Dark',
@@ -61,23 +61,23 @@ const CONFIG = {
             'May 2024, Jeddah, Saudi Arabia',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/fCk4ndN2jMwkTWYuMcVET4/width=3840,quality=80',
-          link: 'https://www.teamlab.art/w/life-ephemerallight-jeddah/jeddah/',
+          link: 'https://www.teamlab.art/jp/w/life-ephemerallight-jeddah/jeddah/',
         },
         {
           title: 'Life is an Ephemeral Light that Blooms in the Dark',
           description:
-            'Feb 2024, Tokyo, Japan',
+            'Feb 2024, Azabudai Tokyo, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/KFKrRpZk6UdmMhB5pPsZTV/width=3840,quality=80',
-          link: 'https://www.teamlab.art/w/life-ephemerallight-jeddah/jeddah/',
+          link: 'https://www.teamlab.art/jp/w/life-ephemerallight-azabudai/',
         },
         {
           title: 'Rinkan sauna',
           description:
-            'サウナ空間で制作したリアルタイム映像作品。漂うミストにを投影し、没入的な雰囲気を生み出す。 Mar 2021, Roppongi, Tokyo, Japan',
+            'サウナ空間で制作したリアルタイム映像作品。漂うミストにを投影し、没入的な雰囲気を生み出す。 Mar 2021, Roppongi Tokyo, Japan',
           imageUrl:
             'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/ri8LBVvcb8rAFWy2Drf96/width=3840,quality=80',
-          link: 'https://www.teamlab.art/w/stepinto_lightcircles/',
+          link: 'https://www.teamlab.art/jp/e/reconnect/',
         },
         {
           title: 'Flower Bombing home',
@@ -85,7 +85,7 @@ const CONFIG = {
             'コロナ禍に、美術館での体験がYouTube配信を通じて家庭へと変わっていく過程を探った作品。 Aug 2020',
           imageUrl:
             'https://flowers-bombing-home.teamlab.art/static/media/your-flower-art-PC.e2ffdf79.jpg',
-          link: 'https://flowers-bombing-home.teamlab.art/',
+          link: 'https://flowers-bombing-home.teamlab.art/jp/',
         },
       ],
     },
