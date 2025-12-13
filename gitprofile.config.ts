@@ -87,6 +87,14 @@ const CONFIG = {
             'https://flowers-bombing-home.teamlab.art/static/media/your-flower-art-PC.e2ffdf79.jpg',
           link: 'https://flowers-bombing-home.teamlab.art/jp/',
         },
+        {
+          title: 'つぶつぶの地層のふわふわな地形 / Soft Terrain in Granular Topography',
+          description:
+            'Apr 2020',
+          imageUrl:
+            'https://imagedelivery.net/b5EBo9Uo-OK6SM09ZTkEZQ/YRS4F2bcFFP5fiXfmjw6SB/width=3840,quality=80',
+          link: 'https://www.teamlab.art/jp/ew/soft_terrain_forest/',
+        },
       ],
     },
     github: {
