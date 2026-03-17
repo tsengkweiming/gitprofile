@@ -29,6 +29,7 @@ export const getSanitizedConfig = (
 ): SanitizedConfig | Record<string, never> => {
   try {
     return {
+      bio: config?.bio || '',
       github: {
         username: config.github.username,
       },

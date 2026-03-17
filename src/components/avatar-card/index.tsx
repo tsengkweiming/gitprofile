@@ -8,6 +8,8 @@ interface AvatarCardProps {
   loading: boolean;
   avatarRing: boolean;
   resumeFileUrl?: string;
+  /** Custom bio/introduction. Overrides GitHub bio when provided. */
+  customBio?: string;
 }
 
 /**
@@ -23,6 +25,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
   loading,
   avatarRing,
   resumeFileUrl,
+  customBio,
 }): React.JSX.Element => {
   return (
     <div className="card shadow-lg card-sm bg-base-100">
@@ -70,10 +73,10 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
               </span>
             )}
           </h5>
-          <div className="mt-3 text-base-content font-mono">
+          <div className="mt-3 text-base-content text-sm whitespace-pre-line">
             {loading || !profile
               ? skeleton({ widthCls: 'w-48', heightCls: 'h-5' })
-              : profile.bio}
+              : (customBio || profile.bio || '').trim()}
           </div>
         </div>
         {resumeFileUrl &&

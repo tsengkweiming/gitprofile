@@ -1,6 +1,7 @@
 // gitprofile.config.ts
 
 const CONFIG = {
+  bio: `Graphics engineer and creative technologist specializing in real-time rendering, shader development (HLSL, GLSL), and system architecture in C#. Experienced in building distributed real-time synchronization systems, signal processing pipelines, and large-scale object management. At teamLab, I develop immersive digital contents that integrate graphics, distributed systems, and spatial computing—ensuring seamless visual continuity across multiple PCs and complex geometries such as walls and floors. With a background in architecture and transportation technology from National Chiao Tung University, I bring a human-centered approach to spatial system design. Previously a VR developer at NAXS Corp. Always curious, always building.`,
   github: {
     username: 'tsengkweiming', // Your GitHub org/user name. (This is the only required config)
   },

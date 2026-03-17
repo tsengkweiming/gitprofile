@@ -313,6 +313,11 @@ interface ThemeConfig {
 
 interface Config {
   /**
+   * Custom bio/introduction displayed under your name. Overrides GitHub bio when provided.
+   */
+  bio?: string;
+
+  /**
    * GitHub config
    */
   github: Github;
